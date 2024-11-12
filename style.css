@@ -1,0 +1,29 @@
+* {
+
+}
+
+h1 {
+	font-family: "Sour Gummy", sans-serif;
+}
+
+h2 {
+	font-family: "Sour Gummy", sans-serif;
+}
+
+/*style for body*/
+body {
+	background-color: beige;
+	font-family: "Raleway", sans-serif;
+}
+
+/*style for container*/
+.container {
+	background-color: darkred;
+	color: white;
+}
+
+/*style for image*/
+img {
+	width: 400px;
+
+}
